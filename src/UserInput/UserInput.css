@@ -1,0 +1,7 @@
+.userInput {
+  text-align: center;
+  font-size: 2rem;
+  border: 5px red;
+  margin: 2px 30px;
+  outline: 6px;
+}
